@@ -414,4 +414,84 @@ h1[data-name="Serge"]{
 	font-size: 30px;
 	color: white;
 	margin: 10px 30px;
+	margin-bottom: 100px;
+}
+
+
+/* 
+Follow Us On
+*/
+.socialsHeading{
+	font-size: 70px;
+	font-family: 'Chakra Petch', sans-serif;
+	color: white;
+	align-content: center;
+	vertical-align: middle;
+	display: flex;
+	justify-content: center;
+	margin-bottom: 50px;
+}
+.socialsHeading:before{
+	content:"";
+  background-color:#000;
+  position: absolute;
+  padding-top: 250px;
+  height: 30px;
+  width: 200vw;
+  left: -100vw;
+  z-index: -1;
+}
+.socials{
+	margin-bottom: 200px;
+	display: flex;
+	justify-content: center;
+}
+.socials ul{
+	position: relative;
+	display: flex;
+	gap: 120px;
+}
+.socials ul li{
+	position: relative;
+	list-style: none;
+	width: 96px;
+	height: 96px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	cursor: pointer;
+	transition: 0.5s;
+}
+.socials ul li:hover{
+	z-index: 10000;
+	transform: scale(0.75);
+}
+.socials ul li::before{
+	content: '';
+	position: absolute;
+	inset: 36px;
+	box-shadow: 0 0 0 12px var(--clr), 0 0 0 24px black, 0 0 0 26.4px var(--clr);
+	transition: 0.5s;
+}
+.socials ul li:hover::before{
+	inset: 0px;
+}
+.socials ul li::after{
+	content: '';
+	position: absolute;
+	inset: 0;
+	background: black;
+	transform: rotate(45deg);
+}
+.socials ul li a{
+	position: relative;
+	text-decoration: none;
+	color: var(--clr);
+	z-index: 10;
+	font-size: 4em;
+	transition: 0.5s;
+}
+.socials ul li:hover a{
+	font-size: 6.4em;
+	filter: drop-shadow(0 0 24px var(--clr)) drop-shadow(0 0 48px var(--clr)) drop-shadow(0 0 72px var(--clr));
 }
