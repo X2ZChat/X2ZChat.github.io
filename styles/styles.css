@@ -272,6 +272,15 @@ Banner
 	}
 }
 
+@keyframes slideInY {
+	from{
+
+	}
+	to{
+		transform: translateY(0);
+	}
+}
+
 .brand img{
     border-radius: 50%;
 	margin-left: 50%;
@@ -574,6 +583,9 @@ Search Tools
 
 	margin-right: 3em;
 	width: 50%;
+
+	/* Fade In Animation */
+	animation: 2s ease 0s normal forwards 1 fadein;
 }
 
 .search-wrapper input{
@@ -605,7 +617,7 @@ input[type="search"]::-webkit-search-results-decoration { display: none; }
 
 .search-wrapper i{
 	position: absolute;
-	width: 39.3%; /* width: 79.3%;  */
+	width: 60em; /* width: 79.3%;  */
 	height: 0.25em;
 	background: white;
 	top: 15em;
@@ -649,6 +661,12 @@ input[type="search"]::-webkit-search-results-decoration { display: none; }
 	font-family: 'Chakra Petch', sans-serif;
 	font-size: 1.5em;
 	min-width: 16em;
+
+	/* Slide Animation */
+	transform: translateX(100rem);
+	animation: slideIn 1.5s forwards;
+
+	z-index: 1;
 }
 .dropdown-menu{
 	min-width: 16em;
@@ -698,7 +716,7 @@ input[type="search"]::-webkit-search-results-decoration { display: none; }
 	border-radius: 0.5em;
 	color: #9fa5b5;
 	position: absolute;
-	z-index: 1;
+	z-index: 10;
 	opacity: 0;
 	display: none;
 	transition: 0.2s;
@@ -730,6 +748,10 @@ Videos Section
   	grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
   	gap: 2rem;
   	margin-top: 3rem;
+
+	/* Slide Animation */
+	transform: translateY(100rem);
+	animation: slideInY 1.5s forwards;
 }
 
 .hide{
