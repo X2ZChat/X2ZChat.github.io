@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    
+    <script src="videosScript.js" defer></script>
+    <link rel="stylesheet" href="styles/styles.css">
+    <link rel="icon" href="images/Logo.png">
+    <title>X2Z Chat&nbsp; |&nbsp; VIDEOS</title>
+
+    <!-- Font Import -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,600;1,500&display=swap" rel="stylesheet">
+
+    <!-- Icon Import -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" 
+    integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" 
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  </head>
+
+  <header>
+    <div class="container">
+        <nav>
+            <h1 class="brand"><a href="index.html">
+                <!---->
+            </a></h1>
+            <ul class="tabs">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="videos.html">Videos</a></li>
+                <li><a href="playlists.html">Playlists</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+
+<body>
+    <!-- Search Tools -->
+    <div class="container search-tools">
+        <div class="search-wrapper">
+            <input type="search" required="required" autocomplete="off" id="search" data-search>
+            <span>Search</span>
+            <i></i>
+        </div>
+        <div class="dropdown">
+            <div class="select">
+                <span class="selected">Most Recent to Least Recent</span>
+                <div class="caret"></div>
+            </div>
+            <ul class="dropdown-menu">
+                <li class="active">Most Recent to Least Recent</li>
+                <li>Least Recent to Most Recent</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Videos Section -->
+    <div class="container video-cards"></div>
+
+    <!-- Footer -->
+    <div class="footer"></div>
+
+    <template data-video-template>
+        <div class="card">
+            <img src="images/ThumbnailPlaceholder.png" class="videoThumbnail" alt="">
+            <div class="card-text">
+                <h1 class="video-title"></h1>
+                <p class="video-description"></p>
+            </div>
+            <div class="card-bottom">
+                <div class="watch-button">
+                    <a href="#" class="videoButtonLink">
+                        <span><i class="fa-solid fa-play"></i>Watch</span>
+                    </a>
+                </div>
+                <div class="video-details">
+                    <p class="time"></p>
+                    <p class="date"></p>
+                </div>
+            </div>
+        </div>
+    </template>
+</body>
+</html>
