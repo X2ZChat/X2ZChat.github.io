@@ -5,7 +5,7 @@
         "videoPlaylist": "Halo CE",
         "videoDuration": "27:43", 
         "uploadDate": "7/30/2022", 
-        "videoThumbnail": "images/ThumbnailPlaceholder.png", 
+        "videoThumbnail": "images/gaming.jpg", 
         "videoLink": "https://www.youtube.com/watch?v=dScq4P5gn4A", 
         "videoDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
@@ -15,7 +15,7 @@
         "videoPlaylist": "Halo CE",
         "videoDuration": "26:53", 
         "uploadDate": "8/7/2022", 
-        "videoThumbnail": "images/ThumbnailPlaceholder.png", 
+        "videoThumbnail": "images/gaming.jpg", 
         "videoLink": "https://www.youtube.com/watch?v=dScq4P5gn4A", 
         "videoDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
@@ -25,7 +25,7 @@
         "videoPlaylist": "Halo CE",
         "videoDuration": "44:53", 
         "uploadDate": "8/9/2022", 
-        "videoThumbnail": "images/ThumbnailPlaceholder.png", 
+        "videoThumbnail": "images/gaming.jpg", 
         "videoLink": "https://www.youtube.com/watch?v=dScq4P5gn4A", 
         "videoDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
@@ -35,7 +35,7 @@
         "videoPlaylist": "Crappy Films",
         "videoDuration": "34:53", 
         "uploadDate": "6/11/2022", 
-        "videoThumbnail": "images/ThumbnailPlaceholder.png", 
+        "videoThumbnail": "images/movie.jpg", 
         "videoLink": "https://www.youtube.com/watch?v=dScq4P5gn4A", 
         "videoDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
@@ -45,7 +45,7 @@
         "videoPlaylist": "War Films",
         "videoDuration": "34:53", 
         "uploadDate": "6/17/2022", 
-        "videoThumbnail": "images/ThumbnailPlaceholder.png", 
+        "videoThumbnail": "images/movie.jpg", 
         "videoLink": "https://www.youtube.com/watch?v=dScq4P5gn4A", 
         "videoDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
@@ -55,7 +55,7 @@
         "videoPlaylist": "The Rational Male",
         "videoDuration": "24:13", 
         "uploadDate": "5/21/2022", 
-        "videoThumbnail": "images/ThumbnailPlaceholder.png", 
+        "videoThumbnail": "images/book.jpg", 
         "videoLink": "https://www.youtube.com/watch?v=dScq4P5gn4A", 
         "videoDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
@@ -65,7 +65,7 @@
         "videoPlaylist": "Blood in the Snow",
         "videoDuration": "45:23", 
         "uploadDate": "6/18/2022", 
-        "videoThumbnail": "images/ThumbnailPlaceholder.png", 
+        "videoThumbnail": "images/book.jpg", 
         "videoLink": "https://www.youtube.com/watch?v=dScq4P5gn4A", 
         "videoDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     }

@@ -49,14 +49,14 @@ dropdowns.forEach(dropdown => {
             const videoDuration = card.querySelector(".time");
             const uploadDate = card.querySelector(".date");
             const videoThumbnail = card.querySelector(".videoThumbnail");
-            const videoButtonLink = card.querySelector(".videoButtonLink");
+            const videoLink = card.querySelector(".videoButtonLink");
             const videoDescription = card.querySelector(".video-description");
 
             videoTitle.textContent = video.videoTitle;
             videoDuration.textContent = video.videoDuration;
             uploadDate.textContent = video.uploadDate;
             videoThumbnail.src = video.videoThumbnail;
-            videoButtonLink.href = video.videoLink;
+            videoLink.href = video.videoLink;
             videoDescription.textContent = video.videoDescription;
 
             video.element = card;
@@ -90,14 +90,14 @@ dropdowns.forEach(dropdown => {
             const videoDuration = card.querySelector(".time");
             const uploadDate = card.querySelector(".date");
             const videoThumbnail = card.querySelector(".videoThumbnail");
-            const videoButtonLink = card.querySelector(".videoButtonLink");
+            const videoLink = card.querySelector(".videoButtonLink");
             const videoDescription = card.querySelector(".video-description");
 
             videoTitle.textContent = video.videoTitle;
             videoDuration.textContent = video.videoDuration;
             uploadDate.textContent = video.uploadDate;
             videoThumbnail.src = video.videoThumbnail;
-            videoButtonLink.href = video.videoLink;
+            videoLink.href = video.videoLink;
             videoDescription.textContent = video.videoDescription;
 
             video.element = card;
@@ -125,6 +125,7 @@ searchInput.addEventListener("input", (e) => {
     const isVisible = video.videoTitle.toLowerCase().includes(value);
     video.element.classList.toggle("hide", !isVisible);
   })
+  console.log(videos)
 })
 
 fetch("videos.json")
@@ -142,20 +143,20 @@ fetch("videos.json")
       const videoDuration = card.querySelector(".time");
       const uploadDate = card.querySelector(".date");
       const videoThumbnail = card.querySelector(".videoThumbnail");
-      const videoButtonLink = card.querySelector(".videoButtonLink");
+      const videoLink = card.querySelector(".videoButtonLink");
       const videoDescription = card.querySelector(".video-description");
 
       videoTitle.textContent = video.videoTitle;
       videoDuration.textContent = video.videoDuration;
       uploadDate.textContent = video.uploadDate;
       videoThumbnail.src = video.videoThumbnail;
-      videoButtonLink.href = video.videoLink;
+      videoLink.href = video.videoLink;
       videoDescription.textContent = video.videoDescription;
 
       videoCardContainer.append(card);
       return {
         videoTitle: video.videoTitle, videoDuration: video.videoDuration, uploadDate: video.uploadDate,
-        videoThumbnail: video.videoThumbnail, videoButtonLink: video.videoButtonLink, videoDescription: video.videoDescription, element: card
+        videoThumbnail: video.videoThumbnail, videoLink: video.videoLink, videoDescription: video.videoDescription, element: card
       }
     });
   })
