@@ -932,3 +932,114 @@ Video Card
 .footer{
 	margin-top: 10em;
 }
+
+
+
+/*-------------------------------------------------------------PLAYLISTS------------------------------------------------------------------*/
+
+/* 
+Genre Board
+*/
+.genres{
+	display: grid;
+  	grid-template-columns: repeat(auto-fill, minmax(333px, 1fr));
+  	gap: 2rem;
+  	margin-top: 7em;
+	/* display: none; */
+
+	/* Slide Animation */
+	transform: translateY(100rem);
+	animation: slideInY 1.5s forwards;
+}
+.genre-card{
+	background-color: #2a2e35;
+	border-radius: 2em;
+  	box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.3);
+  	transition: all 0.4s ease-in-out;
+	cursor: pointer;
+	position: relative;
+}
+.genre-card:hover {
+	transform: translateY(-5px);
+	transition: all 0.4s ease-in-out;
+
+	-moz-box-shadow: 0 0 25px rgb(255, 0, 51);
+	-webkit-box-shadow: 0 0 25px rgb(255, 0, 51);
+	box-shadow: 0px 0px 25px rgb(255, 0, 51);
+}
+.genre-title{
+	color: white;
+	font-size: 4em;
+	text-align: center;
+	margin-top: 1em;
+	font-family: 'Chakra Petch', sans-serif;
+	transition: all 0.4s ease-in-out;
+}
+.genre-card i{
+	display: inline-block;
+	width: 100%;
+	color: white;
+	text-align: center;
+	font-size: 10em;
+	margin-top: 0.1em;
+	margin-bottom: 0.5em;
+	transition: all 0.4s ease-in-out;
+}
+.genre-card:hover i{
+	color: rgb(255, 255, 255);
+	text-shadow: 0 0 5px rgb(255, 0, 0);
+	transition: all 0.4s ease-in-out;
+}
+.genre-card:hover h1{
+	color: rgb(255, 255, 255);
+	text-shadow: 0 0 5px rgb(255, 0, 0);
+	transition: all 0.4s ease-in-out;
+}
+.cardLink
+{ 
+	position:absolute; 
+	width:100%;
+	height:100%;
+	top:0;
+	left: 0;
+  
+	z-index: 1;
+  
+	/* fixes overlap error in IE7/8, 
+	   make sure you have an empty gif */
+	background-image: url('empty.gif');
+}   
+
+
+
+
+/*-------------------------------------------------------------GENRE PAGES------------------------------------------------------------------*/
+
+
+/*
+Playlists Section
+*/
+.playlist-cards{
+	display: grid;
+  	grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  	gap: 2rem;
+  	margin-top: 3rem;
+
+	/* Slide Animation */
+	transform: translateY(100rem);
+	animation: slideInY 1.5s forwards;
+}
+
+/*
+Playlist Card - Most reused from Video Card
+*/
+
+.playlist-details{
+	align-items: center;
+	text-align: center;
+	font-size: 1.8rem;
+	color: #b2becd;
+  	line-height: 2.5rem;
+	margin-bottom: 0.45em;
+	font-family: 'Chakra Petch', monospace;
+}
