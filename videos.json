@@ -1,72 +1,12 @@
 [
     { 
-        "videoTitle": "Gaming Video 1 | Beating the Pillar of Autumn", 
-        "videoGenre": "Gaming",
-        "videoPlaylist": "Halo CE",
-        "videoDuration": "27:43", 
-        "uploadDate": "7/30/2022", 
-        "videoThumbnail": "images/gaming.jpg", 
-        "videoLink": "https://www.youtube.com/watch?v=dScq4P5gn4A", 
-        "videoDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-    },
-    { 
-        "videoTitle": "Gaming Video 2 | Beating Halo", 
-        "videoGenre": "Gaming",
-        "videoPlaylist": "Halo CE",
-        "videoDuration": "26:53", 
-        "uploadDate": "8/7/2022", 
-        "videoThumbnail": "images/gaming.jpg", 
-        "videoLink": "https://www.youtube.com/watch?v=dScq4P5gn4A", 
-        "videoDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-    },
-    { 
-        "videoTitle": "Gaming Video 3 | Beating Truth and Reconcilation", 
-        "videoGenre": "Gaming",
-        "videoPlaylist": "Halo CE",
-        "videoDuration": "44:53", 
-        "uploadDate": "8/9/2022", 
-        "videoThumbnail": "images/gaming.jpg", 
-        "videoLink": "https://www.youtube.com/watch?v=dScq4P5gn4A", 
-        "videoDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-    },
-    { 
-        "videoTitle": "Movie Review 1 | This Movie Blows!", 
-        "videoGenre": "Movies",
-        "videoPlaylist": "Crappy Films",
-        "videoDuration": "34:53", 
-        "uploadDate": "6/11/2022", 
-        "videoThumbnail": "images/movie.jpg", 
-        "videoLink": "https://www.youtube.com/watch?v=dScq4P5gn4A", 
-        "videoDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-    },
-    { 
-        "videoTitle": "Movie Review 2 | This Movie Rocks!", 
-        "videoGenre": "Movies",
-        "videoPlaylist": "War Films",
-        "videoDuration": "34:53", 
-        "uploadDate": "6/17/2022", 
-        "videoThumbnail": "images/movie.jpg", 
-        "videoLink": "https://www.youtube.com/watch?v=dScq4P5gn4A", 
-        "videoDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-    },
-    { 
-        "videoTitle": "Book Review 1 | The Rational Male Chapter 1", 
-        "videoGenre": "Books",
-        "videoPlaylist": "The Rational Male",
-        "videoDuration": "24:13", 
-        "uploadDate": "5/21/2022", 
-        "videoThumbnail": "images/book.jpg", 
-        "videoLink": "https://www.youtube.com/watch?v=dScq4P5gn4A", 
-        "videoDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-    },
-    { 
-        "videoTitle": "Book Review 2 | Blood in the Snow Chapter 1", 
-        "videoGenre": "Books",
-        "videoPlaylist": "Blood in the Snow",
-        "videoDuration": "45:23", 
-        "uploadDate": "6/18/2022", 
-        "videoThumbnail": "images/book.jpg", 
-        "videoLink": "https://www.youtube.com/watch?v=dScq4P5gn4A", 
-        "videoDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        "videoTitle": "Gen X to Gen Z: A Variety Show You've Never Seen Before!", 
+        "videoGenre": "Announcements",
+        "videoPlaylist": "Channel Announcements",
+        "videoDuration": "7:14", 
+        "uploadDate": "1/31/2023", 
+        "videoThumbnail": "images/X2Z Channel Trailer Thumbnail.jpg", 
+        "videoLink": "https://www.youtube.com/watch?v=NoekzSgqbJs", 
+        "videoDescription": "Welcome to X2Z Chat! This trailer is a quick taste of what you will enjoy when you subscribe and join our community! We thrive on engagement and delighting our audience!"
     }
 ]

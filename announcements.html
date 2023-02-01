@@ -5,10 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     
-    <!-- <script src="playlistsScript.js" defer></script> -->
+    <script src="genrePlaylistsScript.js" defer></script>
     <link rel="stylesheet" href="styles/styles.css">
     <link rel="icon" href="images/Logo.png">
-    <title>X2Z Chat&nbsp; |&nbsp; PLAYLISTS</title>
+    <title>X2Z Chat&nbsp; |&nbsp; ANNOUNCEMENTS</title>
 
     <!-- Font Import -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -38,27 +38,34 @@
 </header>
 
 <body>
-    <!-- Genres Section -->
-    <div class="container genres">
-        <div class="genre-card announcements">
-            <h1 class="genre-title">Announcements</h1>
-            <i class="fa-solid fa-bullhorn"></i>
-            <a href="announcements.html"><span class="cardLink"></span></a>
-        </div>
+    <!-- Filtered Playlists Section -->
+    <div class="container playlist-cards"></div>
 
-        <!-- <div class="genre-card gaming">    
-            <h1 class="genre-title">Gaming</h1>
-            <i class="fas fa-gamepad-modern"></i>
-            <a href="gaming.html"><span class="cardLink"></span></a>
-        </div>
+    <!-- Footer -->
+    <div class="footer"></div>
 
-        <div class="genre-card movie-reviews">
-            <h1 class="genre-title">Movie Reviews</h1>
-            <i class="fa-solid fa-camera-movie"></i>
+    <!-- Page genre filter -->
+    <p class="pageGenre hide">Announcements</p>
+
+    <template data-playlist-template>
+        <div class="card">
+            <img src="images/ThumbnailPlaceholder.png" class="playlistThumbnail" alt="">
+            <div class="card-text">
+                <h1 class="playlist-title"></h1>
+                <p class="playlist-description"></p>
+            </div>
+            <div class="card-bottom">
+                <div class="watch-button">
+                    <a href="#" class="playlistButtonLink">
+                        <span><i class="fa-solid fa-play"></i>Watch</span>
+                    </a>
+                </div>
+                <div class="playlist-details">
+                    <p class="time"></p>
+                    <p class="date"></p>
+                </div>
+            </div>
         </div>
-        <div class="genre-card book-reviews">
-            <h1 class="genre-title">Book Reviews</h1>
-            <i class="fa-solid fa-book-open-cover"></i>
-        </div> -->
-    </div>
+    </template>
+</body>
 </html>
