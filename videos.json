@@ -8,5 +8,95 @@
         "videoThumbnail": "images/X2Z Channel Trailer Thumbnail.jpg", 
         "videoLink": "https://www.youtube.com/watch?v=NoekzSgqbJs", 
         "videoDescription": "Welcome to X2Z Chat! This trailer is a quick taste of what you will enjoy when you subscribe and join our community! We thrive on engagement and delighting our audience!"
+    },
+    { 
+        "videoTitle": "Watch out - GRENADE!! | HALO: COMBAT EVOLVED - Part 0 | Controls Training Session", 
+        "videoGenre": "Gaming",
+        "videoPlaylist": "Halo CE: First Time Gaming!",
+        "videoDuration": "41:10", 
+        "uploadDate": "2/3/2023", 
+        "videoThumbnail": "images/CE Training.jpg", 
+        "videoLink": "https://youtu.be/5J_xtehRqfY", 
+        "videoDescription": "Serge, an experienced gamer, coaches Rob, who has never played video games, on how to navigate Halo using an Xbox controller - for the very first time. Gamers:  This will bring back your memories and ecstatic feelings of picking up a controller for the very first time.  How long do you think it will take for Rob to land on his own grenade?"
+    },
+    { 
+        "videoTitle": "This is ADDICTING!! | HALO: COMBAT EVOLVED - Part 1 | The Pillar of Autumn", 
+        "videoGenre": "Gaming",
+        "videoPlaylist": "Halo CE: First Time Gaming!",
+        "videoDuration": "41:02", 
+        "uploadDate": "2/4/2023", 
+        "videoThumbnail": "images/Halo CE POA Thumbnail.jpg", 
+        "videoLink": "https://youtu.be/NpMp_6pXqYk", 
+        "videoDescription": "Serge (an experienced gamer) makes Rob (who has never played video games) beat the Pillar of Autumn level from Halo: Combat Evolved for the VERY FIRST TIME!  Join us for the ride as Rob officially begins his Halo journey! Enjoy this Halo let's play as Rob plays Halo: Combat Evolved for the first time.  Watching this, you will be able to relive the initial excitement and wonder you felt as you discovered the world of Halo for the very first time!"
+    },
+    { 
+        "videoTitle": "Had Enough by Breaking Benjamin | First Time Reaction", 
+        "videoGenre": "Music Reaction",
+        "videoPlaylist": "Breaking Benjamin Music Reactions",
+        "videoDuration": "13:31", 
+        "uploadDate": "2/4/2023", 
+        "videoThumbnail": "images/Breaking Benjamin Had Enough.jpg", 
+        "videoLink": "https://youtu.be/BYyLudWPC64", 
+        "videoDescription": "See our reaction to Had Enough by Breaking Benjamin as Serge introduces Rob to the band for the FIRST TIME! Subscribe to jam with us for more fun music reactions! Be sure to check out our Breaking Benjamin playlist (as well as other band playlists that we react to) to see all of their songs that we reacted to!"
+    },
+    { 
+        "videoTitle": "Diary of Jane by Breaking Benjamin | First Time Reaction", 
+        "videoGenre": "Music Reaction",
+        "videoPlaylist": "Breaking Benjamin Music Reactions",
+        "videoDuration": "22:12", 
+        "uploadDate": "2/5/2023", 
+        "videoThumbnail": "images/Diary of Jane.jpg", 
+        "videoLink": "https://youtu.be/agjNS03zC_8", 
+        "videoDescription": "See our reaction to Diary of Jane by Breaking Benjamin as Serge introduces Rob to the band of Breaking Benjamin for the FIRST TIME! Subscribe to jam with us for more fun music reactions! Be sure to check out our Breaking Benjamin playlist (As well as other band playlists that we react to) to see all of their songs that we reacted to!"
+    },
+    { 
+        "videoTitle": "Skin by Breaking Benjamin | First Time Reaction", 
+        "videoGenre": "Music Reaction",
+        "videoPlaylist": "Breaking Benjamin Music Reactions",
+        "videoDuration": "12:09", 
+        "uploadDate": "2/7/2023", 
+        "videoThumbnail": "images/Breaking Benjamin Skin.jpg", 
+        "videoLink": "https://youtu.be/tL9_WluS1Go", 
+        "videoDescription": "See our reaction to Skin by Breaking Benjamin as Serge introduces Rob to the band of Breaking Benjamin for the FIRST TIME! Subscribe to jam with us for more fun music reactions! Be sure to check out our Breaking Benjamin playlist (As well as other band playlists that we react to) to see all of their songs that we reacted to!"
+    },
+    { 
+        "videoTitle": "SO CREEPY | The Backrooms Found Footage Reaction", 
+        "videoGenre": "Video Reaction",
+        "videoPlaylist": "The Backrooms",
+        "videoDuration": "37:59", 
+        "uploadDate": "2/8/2023", 
+        "videoThumbnail": "images/The Backrooms Found Footage.jpg", 
+        "videoLink": "https://youtu.be/N7usdGBgkdY", 
+        "videoDescription": "See our reaction as Serge introduces Rob to the Backrooms for the first time! These creepy liminal hallways will have you looking over your shoulder! Subscribe to follow us as we react to more interesting videos!"
+    },
+    { 
+        "videoTitle": "Polyamorous by Breaking Benjamin | First Time Reaction", 
+        "videoGenre": "Music Reaction",
+        "videoPlaylist": "Breaking Benjamin Music Reactions",
+        "videoDuration": "10:12", 
+        "uploadDate": "2/9/2023", 
+        "videoThumbnail": "images/Polyamorous.jpg", 
+        "videoLink": "https://youtu.be/CGc9WbG9AJY", 
+        "videoDescription": "See our reaction to Polyamorous by Breaking Benjamin as Serge introduces Rob to the band of Breaking Benjamin for the FIRST TIME! Subscribe to jam with us for more fun music reactions! Be sure to check out our Breaking Benjamin playlist (As well as other band playlists that we react to) to see all of their songs that we reacted to!"
+    },
+    { 
+        "videoTitle": "DRUNK DRIVING?? | HALO: COMBAT EVOLVED - Part 2 | Halo", 
+        "videoGenre": "Gaming",
+        "videoPlaylist": "Halo CE: First Time Gaming!",
+        "videoDuration": "1:13:18", 
+        "uploadDate": "2/11/2023", 
+        "videoThumbnail": "images/Halo CE Level 2.jpg", 
+        "videoLink": "https://youtu.be/5KXUxkfG6w0", 
+        "videoDescription": "Serge (an experienced gamer) makes Rob (who has never played video games) beat the Halo level from Halo: Combat Evolved for the VERY FIRST TIME!  Join us for the ride as Rob officially begins his Halo journey!  Enjoy this Halo let's play as Rob plays Halo: Combat Evolved for the first time.  Watching this, you will be able to relive the initial excitement and wonder you felt as you discovered the world of Halo for the very first time!"
+    },
+    { 
+        "videoTitle": "So Cold by Breaking Benjamin | First Time Reaction", 
+        "videoGenre": "Music Reaction",
+        "videoPlaylist": "Breaking Benjamin Music Reactions",
+        "videoDuration": "16:12", 
+        "uploadDate": "2/12/2023", 
+        "videoThumbnail": "images/So Cold.jpg", 
+        "videoLink": "https://youtu.be/XG2HOihEYrY", 
+        "videoDescription": "See our reaction to So Cold by Breaking Benjamin as Serge introduces Rob to the band of Breaking Benjamin for the FIRST TIME! Subscribe to jam with us for more fun music reactions! Be sure to check out our Breaking Benjamin playlist (As well as other band playlists that we react to) to see all of their songs that we reacted to!"
     }
 ]
