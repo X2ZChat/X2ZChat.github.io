@@ -805,7 +805,7 @@ Video Card
 }
 
 .card h1{
-	font-size: 2.5rem;
+	font-size: 2rem; /*2.5rem original*/
 	color: rgb(217, 217, 217);
 	/* background: -webkit-linear-gradient(left, rgb(255, 0, 51), rgb(0, 64, 255));
   	-webkit-background-clip: text;

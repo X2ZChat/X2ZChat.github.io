@@ -7,5 +7,14 @@
         "playlistThumbnail": "images/X2Z Channel Trailer Thumbnail.jpg", 
         "playlistLink": "https://www.youtube.com/watch?v=NoekzSgqbJs&list=PLuhMdhszcDnI07uUArHQ8nMlUSBIeKuti", 
         "playlistDescription": "Welcome to X2Z Chat! This trailer is a quick taste of what you will enjoy when you subscribe and join our community! We thrive on engagement and delighting our audience!"
+    },
+    { 
+        "playlistTitle": "Halo CE: First Time Gaming!", 
+        "playlistGenre": "Gaming",
+        "playlistDuration": "2:35:33", 
+        "uploadDate": "2/11/2023", 
+        "playlistThumbnail": "images/Halo CE POA Thumbnail.jpg", 
+        "playlistLink": "https://www.youtube.com/watch?v=5J_xtehRqfY&list=PLuhMdhszcDnJPwVGrvkI_BWE7Mamw7Jmk", 
+        "playlistDescription": "Serge (an experienced gamer) makes Rob (who has never played video games) beat Halo: Combat Evolved for the VERY FIRST TIME! Join us for the ride as Rob officially begins his Halo journey! Enjoy this Halo let's play as Rob plays Halo: Combat Evolved for the first time.  Watching this, you will be able to relive the initial excitement and wonder you felt as you discovered the world of Halo for the very first time!"
     }
 ]
